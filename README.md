@@ -7,7 +7,7 @@ If you are using the code here in a publication, please consider citing our pape
 
     @article{dong2020scale-recursive,
       title={Scale-Recursive Network with point supervision for crowd scene analysis},
-      author={Dong, Zihao and Zhang, Ruixun and Shao, Xiuli and Li, Yumeng},
+      author={Dong, Zihao et. al},
       journal={Neurocomputing},
       volume={384},
       pages={314--324},
