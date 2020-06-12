@@ -15,7 +15,7 @@ ShanghaiTech Dataset makes by Zhang Y, Zhou D, Chen S, et al. For more detail, p
 2. Get dataset and its corresponding map label
 Please refer to the instructions under the 'datamaker' path for details.
 
-### Train/Eval/Release
+## Train/Eval/Release
 Train is easy, just using following step.
 
 1. Train. Using [train.py](train.py) to train SRN+PS model
