@@ -1,4 +1,4 @@
-# Scale-Recursive Network with point supervision for crowd scene analysis
+# Scale-Recursive Network with point supervision for crowd scene analysis (Tensorflow Implementation)
 
 ## Introduction
 This is open source project for crowd analysis. Implement with paper "Scale-Recursive Network with point supervision for crowd scene analysis" from Nankai University.  
