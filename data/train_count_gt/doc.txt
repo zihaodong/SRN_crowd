@@ -1,0 +1,1 @@
+Generate point map labels (.npy) from ShanghaiTech part_B
